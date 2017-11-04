@@ -4,7 +4,7 @@ Redis是`Remote Dictionary Server`(远程数据服务)的缩写，
 该软件使用C语言编写,它的数据模型为` key-value`。
 它支持丰富的数据结构，比如 `String`（字符串）`list`（双向链表）  `hash`（哈希） `set`（集合） `sorted set`（有序集合）。数据可持久化（定时写入磁盘中），保证了数据安全。详细见[redis官网](https://redis.io/) 。
 
-## 使用场景
+## redis使用场景
 
 * [Sort Set]`排行榜`应用，取top n操作，例如sina微博热门话题<br>
 * [List]获得最新N个数据 或 某个分类的最新数据<br>
