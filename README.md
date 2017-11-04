@@ -1,4 +1,4 @@
-# redis
+# redis实现的简单秒杀系统
 Redis是`Remote Dictionary Server`(远程数据服务)的缩写，
 由意大利人 `antirez`(Salvatore Sanfilippo)  开发的一款 内存高速缓存数据库。
 该软件使用C语言编写,它的数据模型为` key-value`。
